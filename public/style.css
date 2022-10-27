@@ -1,0 +1,13 @@
+.chatBox {
+    padding: 3em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.areaBox {
+    overflow: hidden;
+    resize: none;
+    width: 30%;
+}
